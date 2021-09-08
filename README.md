@@ -37,4 +37,9 @@ Graduado em Sistemas de Informação, estudos direcionados ao Desenvolvimento Fu
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoMendes09&show_icons=true)
+
+[![GustavoMendes09](https://github-readme-stats.vercel.app/api?username=GustavoMendes09&theme=radical)](https://github.com/GustavoMendes09/)
+
+[![GustavoMendes09](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMendes09&hide=html&layout=compact&theme=radical)](https://github.com/GustavoMendes09/)
+
+
